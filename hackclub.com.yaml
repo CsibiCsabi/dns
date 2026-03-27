@@ -4246,9 +4246,12 @@ panorama:
   type: CNAME
   value: panorama-countdown.pages.dev.
 paradox: #dhamari@hackclub.com
+- octodns:
+    cloudflare:
+      proxied: true
   ttl: 300
   type: CNAME
-  value: cname.vercel-dns.com.
+  value: a.selfhosted.hackclub.com.
 parcel-pyxis:
 - octodns:
     cloudflare:
@@ -5196,10 +5199,6 @@ stemegypt:
 - ttl: 300
   type: CNAME
   value: cname.vercel-dns.com.
-stemsharkya:
-- ttl: 300
-  type: CNAME
-  value: stemsharkya.netlify.app.
 stickers: #euan@hackclub.com U06T30DNB3L 
 - ttl: 300
   type: CNAME
