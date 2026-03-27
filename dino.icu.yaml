@@ -176,7 +176,7 @@ boxed: # U08PUHSMW4V
 breakout: #by U0823J6HMTP https://github.com/CsibiCsabi
     ttl: 600
     type: CNAME
-    value: break-out-nine.vercel.app
+    value: break-out-nine.vercel.app.
 
 bs: # by https://github.com/leecheeyong/BrawlBio
   ttl: 600
